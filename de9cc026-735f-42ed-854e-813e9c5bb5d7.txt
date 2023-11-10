@@ -9,6 +9,7 @@ ClosedKeyPath=HKEY_CURRENT_USER
 ClosedKeyPath=HKEY_LOCAL_MACHINE
 ClosedKeyPath=HKEY_USERS
 ClosedKeyPath=HKEY_CLASSES_ROOT
+ClosedKeyPath=HKEY_CURRENT_CONFIG
 
 ClosedFilePath=\Device\RawIp
 ClosedFilePath=\Device\Ip*
