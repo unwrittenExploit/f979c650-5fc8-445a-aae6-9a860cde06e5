@@ -1,0 +1,10 @@
+ClosedFilePath=C:\Users
+ClosedFilePath=C:\Intel
+ClosedFilePath=C:\ProgramData
+ClosedFilePath=C:\PerfLogs
+ClosedFilePath=C:\Users
+ClosedFilePath=%Cookies%
+ClosedKeyPath=HKEY_CURRENT_USER\
+ClosedKeyPath=HKEY_LOCAL_MACHINE\
+ClosedKeyPath=HKEY_USERS\
+ClosedKeyPath=HKEY_CLASSES_ROOT\
