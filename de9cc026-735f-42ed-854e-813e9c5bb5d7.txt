@@ -1,17 +1,19 @@
 ClosedFilePath=C:\Users
 ClosedFilePath=C:\Intel
-ClosedFilePath=C:\ProgramData
 ClosedFilePath=C:\PerfLogs
-ClosedFilePath=C:\Users
-ClosedFilePath=%Cookies%
+ClosedFilePath=C:\ProgramData
 
-ClosedKeyPath=HKEY_CURRENT_USER
-ClosedKeyPath=HKEY_LOCAL_MACHINE
-ClosedKeyPath=HKEY_USERS
-ClosedKeyPath=HKEY_CLASSES_ROOT
-ClosedKeyPath=HKEY_CURRENT_CONFIG
+
+ClosedFilePath=%Cookies%
 
 ClosedFilePath=\Device\RawIp
 ClosedFilePath=\Device\Ip*
 ClosedFilePath=\Device\Tcp*
+ClosedFilePath=\Device\Udp
 ClosedFilePath=\Device\Afd*
+
+ClosedKeyPath=HKEY_CURRENT_CONFIG
+ClosedKeyPath=HKEY_USERS
+ClosedKeyPath=HKEY_LOCAL_MACHINE
+ClosedKeyPath=HKEY_CURRENT_USER
+ClosedKeyPath=HKEY_CLASSES_ROOT 
