@@ -5,11 +5,12 @@ ClosedFilePath=C:\PerfLogs
 ClosedFilePath=C:\Users
 ClosedFilePath=%Cookies%
 
-ClosedKeyPath=HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\
-ClosedKeyPath=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\
-ClosedKeyPath=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce\
-ClosedKeyPath=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\
-ClosedKeyPath=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
-ClosedKeyPath=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\
-ClosedKeyPath=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce\
-ClosedKeyPath=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\
+ClosedKeyPath=HKEY_CURRENT_USER
+ClosedKeyPath=HKEY_LOCAL_MACHINE
+ClosedKeyPath=HKEY_USERS
+ClosedKeyPath=HKEY_CLASSES_ROOT
+
+ClosedFilePath=\Device\RawIp
+ClosedFilePath=\Device\Ip*
+ClosedFilePath=\Device\Tcp*
+ClosedFilePath=\Device\Afd*
