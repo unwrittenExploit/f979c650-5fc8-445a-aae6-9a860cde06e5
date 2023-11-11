@@ -13,8 +13,8 @@ ClosedFilePath=C:\Users\yago\Saved Games
 ClosedFilePath=C:\Users\yago\Searches
 ClosedFilePath=C:\Users\yago\Videos
 
-ClosedFilePath=C:\Users\yago\AppData\LocalLow
-ClosedFilePath=C:\Users\yago\AppData\Roaming
+ClosedFilePath=C:\Users\yago\AppData\LocalLow\Microsoft
+ClosedFilePath=C:\Users\yago\AppData\Roaming\
 
 ClosedFilePath=C:\Users\yago\AppData\Local\CEF
 ClosedFilePath=C:\Users\yago\AppData\Local\Comms
